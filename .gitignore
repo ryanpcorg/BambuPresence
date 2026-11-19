@@ -1,0 +1,11 @@
+BambuPresence.exe
+*.exe
+config.json
+print_history.json
+hms_en.json.gz
+temp.json
+a1_search.html
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
